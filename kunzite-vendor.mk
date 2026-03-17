@@ -442,9 +442,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/display/graphics_alignments.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/graphics_alignments.json \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/display/ubwc_alignments.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/ubwc_alignments.json \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/display/video_alignments.json:$(TARGET_COPY_OUT_VENDOR)/etc/display/video_alignments.json \
-    vendor/xiaomi/kunzite/proprietary/vendor/etc/displayconfig/display_id_4630946494833437058.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946494833437058.xml \
-    vendor/xiaomi/kunzite/proprietary/vendor/etc/displayconfig/display_id_4630946610401717122.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946610401717122.xml \
-    vendor/xiaomi/kunzite/proprietary/vendor/etc/displayconfig/display_id_4630946832425270402.xml:$(TARGET_COPY_OUT_VENDOR)/etc/displayconfig/display_id_4630946832425270402.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/dolby/dax-default-spatializer.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default-spatializer.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/dolby/dax-default.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/dax-default.xml \
     vendor/xiaomi/kunzite/proprietary/vendor/etc/dpm_vndr/vendor.dpm.conf:$(TARGET_COPY_OUT_VENDOR)/etc/dpm_vndr/vendor.dpm.conf \
