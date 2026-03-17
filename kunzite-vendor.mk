@@ -24,9 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kunzite/proprietary/odm/firmware/goodix_cfg_group.bin:$(TARGET_COPY_OUT_ODM)/firmware/goodix_cfg_group.bin \
     vendor/xiaomi/kunzite/proprietary/odm/firmware/goodix_firmware.bin:$(TARGET_COPY_OUT_ODM)/firmware/goodix_firmware.bin \
     vendor/xiaomi/kunzite/proprietary/odm/firmware/goodix_test_limits_255.csv:$(TARGET_COPY_OUT_ODM)/firmware/goodix_test_limits_255.csv \
-    vendor/xiaomi/kunzite/proprietary/product/etc/displayconfig/game_app_category_list_backup.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/displayconfig/game_app_category_list_backup.xml \
-    vendor/xiaomi/kunzite/proprietary/product/etc/displayconfig/multi_factor_thermal_brightness_control.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/displayconfig/multi_factor_thermal_brightness_control.xml \
-    vendor/xiaomi/kunzite/proprietary/product/etc/displayconfig/rhythmic_app_category_list_backup.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/displayconfig/rhythmic_app_category_list_backup.xml \
     vendor/xiaomi/kunzite/proprietary/product/etc/permissions/UimGba.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/UimGba.xml \
     vendor/xiaomi/kunzite/proprietary/product/etc/permissions/UimGbaManager.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/UimGbaManager.xml \
     vendor/xiaomi/kunzite/proprietary/product/etc/permissions/UimService.xml:$(TARGET_COPY_OUT_PRODUCT)/etc/permissions/UimService.xml \
